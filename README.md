@@ -1,6 +1,6 @@
 # Recriando-a-pagina-inicial-do-instagram
 
-[![INSTAGRAM]([img]https://i.imgur.com/RtMzgQV.jpg[/img])](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
+[![INSTAGRAM](https://i.imgur.com/RtMzgQV.jpg)](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
 
 
 
