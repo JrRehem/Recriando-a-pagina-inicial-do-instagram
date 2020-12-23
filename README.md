@@ -1,4 +1,6 @@
-# Recriando-a-pagina-inicial-do-instagram
+# Recriando a interface do Instagram
+
+Nesse projeto foi abordado os conceitos sobre CSS e HTML.
 
 [![INSTAGRAM](https://i.imgur.com/RtMzgQV.jpg)](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
 
