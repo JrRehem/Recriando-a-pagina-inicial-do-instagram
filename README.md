@@ -7,4 +7,4 @@ Nesse projeto foi abordado os conceitos sobre CSS e HTML.
 
 
 
-- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Recriando a página inicial do Instagram](https://web.digitalinnovation.one/lab/recriando-a-pagina-inicial-do-instagram/learning/35838848-f99e-473c-9201-816d046ebf12 "Recriando a página inicial do Instagram").
+- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Recriando a página inicial do Instagram](https://web.digitalinnovation.one/project/recriando-a-pagina-inicial-do-instagram/learning/35838848-f99e-473c-9201-816d046ebf12?back=/track/everis-fullstack-developer&bootcamp_id=4783a045-fcd6-4074-b5b7-4e85cab84888").
