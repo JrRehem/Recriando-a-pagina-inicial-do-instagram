@@ -5,11 +5,11 @@ Nesse projeto foi abordado os conceitos sobre CSS e HTML.
 Foi implantado mais uma página com interface de login e senha, para melhor interação do usuario.
 
 Interface de login
-[![INSTAGRAM]([img]https://i.imgur.com/jIXOmbp.jpg[/img])](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
+[![INSTAGRAM](https://i.imgur.com/jIXOmbp.jpg)](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
 
 
 Interface de logado
-[![INSTAGRAM]([img]https://i.imgur.com/8uRqj1r.jpg[/img])](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
+[![INSTAGRAM](https://i.imgur.com/8uRqj1r.jpg)](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
 
 
 
