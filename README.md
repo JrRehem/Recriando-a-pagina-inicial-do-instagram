@@ -2,6 +2,8 @@
 
 Nesse projeto foi abordado os conceitos sobre CSS e HTML.
 
+Foi implantado mais uma página com interface de login e senha, para melhor interação do usuario.
+
 [![INSTAGRAM](https://i.imgur.com/RtMzgQV.jpg)](https://github.com/JrRehem/Recriando-a-pagina-inicial-do-instagram/)
 
 
